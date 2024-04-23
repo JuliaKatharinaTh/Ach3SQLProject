@@ -1,4 +1,5 @@
 # RockbusterSQLProject
+<img src="C:\Users\julia\Documents\E D U C A T I O N\06 CareerFoundry Data Analyst\2 Tasks A1-A8 Data Immersion\Achievement 3\RSLogo.png" alt="Rockbuster Stealth Logo">
 
 ## 🎯 Objective 
 Rockbuster Stealth LLC is a movie rental company that used to have stores all over the globe. To stay competitive in the face of stiff competition from streaming services such as Netflix and Amazon Prime, the Rockbuster Stealth management team is planning to use its existing movie licenses to launch an online video rental service.
