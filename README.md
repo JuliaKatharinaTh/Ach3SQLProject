@@ -9,9 +9,9 @@ This project aims to assist Rockbuster Stealth LLC in launching an online video 
 The project involves loading Rockbuster's data into a relational database management system (RDBMS) and utilizing SQL to analyze various data points, including film inventory, customer information, and payments.
 
 ## 🔧 Tools
-(•) PostgreSQL database for data storage and querying
-(•) SQL for data analysis and answering business questions
-(•) Excel for visualizing SQL results and creating a data dictionary
+<ul><li>PostgreSQL database for data storage and querying</li></ul>
+<ul><li>SQL for data analysis and answering business questions</li></ul>
+<ul><li>Excel for visualizing SQL results and creating a data dictionary</li></ul>
 
 ## 🚀 Executing the code
 1. Install PostgreSQL and set up the database environment
