@@ -30,7 +30,5 @@ The project focuses on addressing key business questions posed by the Rockbuster
 <ul><li>Where are customers with a high lifetime value based?</li></ul>
 <ul><li>Do sales figures vary between geographic regions?</li></ul>
 
-## 📚 Resources
-Download the Rockbuster data set
-Download PostgreSQL Database
-
+## 📈 Visualizations
+<a href="[https://public.tableau.com/app/profile/julia.katharina/viz/DistributionCustomers/Sheet1}">Rockbuster Visualization</a>
