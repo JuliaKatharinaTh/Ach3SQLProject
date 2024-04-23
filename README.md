@@ -5,20 +5,20 @@ Rockbuster Stealth LLC is a movie rental company that used to have stores all ov
 
 This project aims to assist Rockbuster Stealth LLC in launching an online video rental service by analyzing their existing movie data and providing insights to inform the launch strategy.
 
-# 📊 Data
+## 📊 Data
 The project involves loading Rockbuster's data into a relational database management system (RDBMS) and utilizing SQL to analyze various data points, including film inventory, customer information, and payments.
 
-# 🔧 Tools
+## 🔧 Tools
 (•) PostgreSQL database for data storage and querying
 (•) SQL for data analysis and answering business questions
 (•) Excel for visualizing SQL results and creating a data dictionary
 
-# 🚀 Executing the code
+## 🚀 Executing the code
 1. Install PostgreSQL and set up the database environment
 2. Load the Rockbuster data set into the PostgreSQL database
 3. Use SQL queries to analyze the data and answer business questions
 
-# ❓ Key Questions & Objectives
+## ❓ Key Questions & Objectives
 
 The project focuses on addressing key business questions posed by the Rockbuster Stealth Management Board, such as:
 
@@ -28,7 +28,7 @@ The project focuses on addressing key business questions posed by the Rockbuster
 ● Where are customers with a high lifetime value based?
 ● Do sales figures vary between geographic regions?
 
-# 📚 Resources
+## 📚 Resources
 Download the Rockbuster data set
 Download PostgreSQL Database
 
