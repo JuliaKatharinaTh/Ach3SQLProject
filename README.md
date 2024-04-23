@@ -23,7 +23,7 @@ The project involves loading Rockbuster's data into a relational database manage
 
 The project focuses on addressing key business questions posed by the Rockbuster Stealth Management Board, such as:
 
-Which movies contributed the most/least to revenue gain?</li></ul>
+<ul><li>Which movies contributed the most/least to revenue gain?</li></ul>
 <ul><li>What was the average rental duration for all videos?</li></ul>
 <ul><li>Which countries are Rockbuster customers based in?</li></ul>
 <ul><li>Where are customers with a high lifetime value based?</li></ul>
