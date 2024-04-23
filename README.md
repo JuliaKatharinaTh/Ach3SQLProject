@@ -12,6 +12,7 @@ The project involves loading Rockbuster's data into a relational database manage
 <ul><li>PostgreSQL database for data storage and querying</li></ul>
 <ul><li>SQL for data analysis and answering business questions</li></ul>
 <ul><li>Excel for visualizing SQL results and creating a data dictionary</li></ul>
+<ul><li>Tableau for visualizing SQL results</li></ul>
 
 ## 🚀 Executing the code
 1. Install PostgreSQL and set up the database environment
