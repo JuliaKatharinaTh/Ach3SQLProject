@@ -31,4 +31,4 @@ The project focuses on addressing key business questions posed by the Rockbuster
 <ul><li>Do sales figures vary between geographic regions?</li></ul>
 
 ## 📈 Visualizations
-<a href="[https://public.tableau.com/app/profile/julia.katharina/viz/DistributionCustomers/Sheet1}">Rockbuster Visualization</a>
+[Tableau Visualization](https://public.tableau.com/app/profile/julia.katharina/viz/DistributionCustomers/Sheet1)
