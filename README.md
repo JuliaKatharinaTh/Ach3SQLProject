@@ -1,6 +1,6 @@
-# Ach3SQLProject
+# RockbusterSQLProject
 
-# 🎯 Objective 
+## 🎯 Objective 
 Rockbuster Stealth LLC is a movie rental company that used to have stores all over the globe. To stay competitive in the face of stiff competition from streaming services such as Netflix and Amazon Prime, the Rockbuster Stealth management team is planning to use its existing movie licenses to launch an online video rental service.
 
 This project aims to assist Rockbuster Stealth LLC in launching an online video rental service by analyzing their existing movie data and providing insights to inform the launch strategy.
